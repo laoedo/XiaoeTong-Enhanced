@@ -54,4 +54,3 @@
     window.addEventListener('blur', stopSiteHandler, true);
     window.addEventListener('focus', stopSiteHandler, true);
 })();
-

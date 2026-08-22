@@ -24,4 +24,3 @@ Greasy Fork 发布后将在这里补充安装地址：`{{GREASYFORK_URL}}`
 ## 许可证
 
 [MIT](./LICENSE)
-
