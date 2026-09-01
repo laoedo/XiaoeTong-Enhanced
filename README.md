@@ -16,7 +16,7 @@
 3. 重新打开小鹅通 PC 课程页面。
 4. 点击页面右下方的齿轮按钮调整配色和功能开关。
 
-Greasy Fork 发布后将在这里补充安装地址：`{{GREASYFORK_URL}}`
+[从 Greasy Fork 安装脚本](https://greasyfork.org/zh-CN/scripts/593938-%E5%B0%8F%E9%B9%85%E9%80%9A%E8%AF%BE%E7%A8%8B%E9%A1%B5%E9%9D%A2%E5%A2%9E%E5%BC%BA)
 
 ## 说明
 

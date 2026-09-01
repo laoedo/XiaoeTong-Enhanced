@@ -36,6 +36,7 @@
 
 - GitHub：<https://github.com/laoedo/xiaoe-no-reload>
 - 问题反馈：<https://github.com/laoedo/xiaoe-no-reload/issues>
+- Greasy Fork：<https://greasyfork.org/zh-CN/scripts/593938-%E5%B0%8F%E9%B9%85%E9%80%9A%E8%AF%BE%E7%A8%8B%E9%A1%B5%E9%9D%A2%E5%A2%9E%E5%BC%BA>
 
 ## 发布设置建议
 
@@ -49,6 +50,6 @@
 
 ## 发布前检查
 
-- [ ] 将 `{{GREASYFORK_URL}}` 替换为发布后的 Greasy Fork 地址。
+- [x] 将 Greasy Fork 安装地址回填到 GitHub 文档。
 - [x] 在 Tampermonkey 中从最终代码重新安装并测试。
 - [x] 确认课程播放与课程链接功能正常。
