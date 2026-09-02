@@ -36,11 +36,11 @@
 
 ### 设置面板与章节彩色分组
 
-![设置面板与章节彩色分组](https://raw.githubusercontent.com/laoedo/xiaoe-no-reload/main/assets/preview-settings-and-chapters.png)
+![设置面板与章节彩色分组](https://raw.githubusercontent.com/laoedo/XiaoeTong-Enhanced/main/assets/preview-settings-and-chapters.png)
 
 ### 深色播放器与完整课程目录
 
-![深色播放器与完整课程目录](https://raw.githubusercontent.com/laoedo/xiaoe-no-reload/main/assets/preview-dark-course-catalog.png)
+![深色播放器与完整课程目录](https://raw.githubusercontent.com/laoedo/XiaoeTong-Enhanced/main/assets/preview-dark-course-catalog.png)
 
 ## 使用方法
 
@@ -55,8 +55,8 @@
 
 ## 源代码与问题反馈
 
-- GitHub：<https://github.com/laoedo/xiaoe-no-reload>
-- 问题反馈：<https://github.com/laoedo/xiaoe-no-reload/issues>
+- GitHub：<https://github.com/laoedo/XiaoeTong-Enhanced>
+- 问题反馈：<https://github.com/laoedo/XiaoeTong-Enhanced/issues>
 - Greasy Fork：<https://greasyfork.org/zh-CN/scripts/593938-%E5%B0%8F%E9%B9%85%E9%80%9A%E8%AF%BE%E7%A8%8B%E9%A1%B5%E9%9D%A2%E5%A2%9E%E5%BC%BA>
 
 ## 发布设置建议
@@ -71,7 +71,7 @@
 
 ## GitHub 同步建议
 
-- 源代码同步地址：<https://raw.githubusercontent.com/laoedo/xiaoe-no-reload/main/%E5%B0%8F%E9%B9%85%E9%80%9A%E8%AF%BE%E7%A8%8B%E9%A1%B5%E9%9D%A2%E5%A2%9E%E5%BC%BA.user.js>
+- 源代码同步地址：<https://raw.githubusercontent.com/laoedo/XiaoeTong-Enhanced/main/%E5%B0%8F%E9%B9%85%E9%80%9A%E8%AF%BE%E7%A8%8B%E9%A1%B5%E9%9D%A2%E5%A2%9E%E5%BC%BA.user.js>
 - 在 Greasy Fork 的“管理 → 源代码同步”中选择“自动”，网站会定期检查 GitHub 上的新版本。
 - 如需 GitHub 推送后立即同步，可在启用源代码同步后继续配置 Greasy Fork Webhook。
 - 附加介绍和截图可以填写本文件的 Raw 地址，或在发布新版本后手动复制本文件中的“详细介绍”和“效果预览”。

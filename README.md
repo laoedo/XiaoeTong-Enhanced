@@ -54,7 +54,7 @@
 
 ## 反馈
 
-[提交问题](https://github.com/laoedo/xiaoe-no-reload/issues)
+[提交问题](https://github.com/laoedo/XiaoeTong-Enhanced/issues)
 
 ## 许可证
 
